@@ -6,7 +6,7 @@
 
 ### 1회차 (24.01.16 ~ 24.01.31)
 
-- [x] 브라우저 렌더링 과정 뽀개기 - 김예지
+- [x] [브라우저 렌더링 과정 뽀개기 - 김예지](https://github.com/HiBixby/SSAFY-10th-FE-Study/blob/master/presentation-study/week1/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95%20%EB%BD%80%EA%B0%9C%EA%B8%B0.pdf)
 - [x] BEM(Block Element Modifier)을 이용한 블록 단위 명명법 - 김민관
 - [x] component 구조 - 정종욱
 - [x] useEffect의 의존성 배열에 객체를 넣으면 생기는 일 - 김성현
@@ -22,7 +22,7 @@
 ### 2회차 (24.02.01 ~ 24.02.20)
 
 - [x] 커스텀 훅, 컴포넌트 디자인 패턴 - 엄진식
-- [x] http와 https - 김예지
+- [x] [http와 https - 김예지](https://github.com/HiBixby/SSAFY-10th-FE-Study/blob/master/presentation-study/week2/HTTP%EC%99%80%20HTTPS.pdf)
 - [x] vue와 react의 차이 - 정종욱
 - [x] 프론트엔드와 figma - 서민지
 - [x] JavaScript에서의 this - 이은규
@@ -33,7 +33,7 @@
 ### 3회차 (24.03.07 ~ 24.03.20)
 
 - [x] Core Web Vital과 Lighthouse - 엄진식
-- [x] HTTP 상태 코드 - 김예지
+- [x] [HTTP 상태 코드 - 김예지](https://github.com/HiBixby/SSAFY-10th-FE-Study/blob/master/presentation-study/week3/HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.pdf)
 - [x] javascript vs typescript - 정종욱
 - [x] 프론트엔드와 앱 개발 - 서민지
 - [x] javascript의 실행 컨텍스트 - 이은규
